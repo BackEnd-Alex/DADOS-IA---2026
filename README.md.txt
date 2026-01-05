@@ -1,21 +1,21 @@
-# Estudos em dados & Inteligência Artificial
+# 📊 Estudos em dados & Inteligência Artificial
 
 Este repositório foi criado para documentar minha jornada de estudos em **Dados e aqui registro aprendizados, exercícios e projetos práticos, acompanhando minha evolução a longo do tempo.
 
-## Objetivo 
+## 🎯 Objetivo 
 
 - Consolidar conhecimentos em Dados e IA
 - Praticar projetos reais
 - Construir um portifólio publico no GitHub
 
-## Conteúdos estudados
+## 📚 Conteúdos estudados
 
 - Fundamentos em Python
 - Estatística aplicada
 - SQL, EXCEL, MICROSOFT COPILOT
 - MARCHILE, IA
 
-## Tecnologias e Ferramentas 
+## 🛠 Tecnologias e Ferramentas 
 
 - Python
 - SQL
@@ -23,7 +23,7 @@ Este repositório foi criado para documentar minha jornada de estudos em **Dados
 - Git e GitHub
 - .......
 
-## Organização do Repositório 
+## 📂 Organização do Repositório 
 
 - 01_fundamentos → conceitos básicos (Python, Estatística, SQL)
 - 02_analise_de_dados → manipulação e visualização de dados
